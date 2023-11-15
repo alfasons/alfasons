@@ -27,12 +27,6 @@ I guarantee end solutions that address issues with accuracy and quality assuranc
 [![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/chirchir)
 
 - Mobile no : +254-705-595-011.
-## Contact Information
+- email : kibet780@gmail.com
 
-📧 Email: your.email@example.com  
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)  
-🌐 Website: [Your Portfolio](https://www.yourportfolio.com/)  
-
-Feel free to reach out to me via email or connect on social media!
 
