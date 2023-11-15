@@ -21,7 +21,7 @@ I understand the importance of trust in a working relationship. Feel free to sch
 Ready to take the next step? Contact me now, and let's turn your ideas into reality. I'm here to make your web development journey seamless and successful!
 - email:  kibet780@gmail.com
 - mobile number : +254-705-595-011
-- upwork profile: ### https://www.upwork.com/freelancers/chirchir
+- upwork profile: https://www.upwork.com/freelancers/chirchir
 
 
 Looking forward to the opportunity,
