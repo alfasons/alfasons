@@ -1,7 +1,7 @@
 ### Hi 👋, My name is Kipchirchir Kibet
 
-Profile Description:
-🚀 Welcome to a destination where expertise meets innovation! I'm Kipchirchir K, your go-to Full Stack Developer for crafting secure and cutting-edge web applications tailored to your business needs.
+**Profile Description**
+ 🚀 Welcome to a destination where expertise meets innovation! I'm Kipchirchir K, your go-to Full Stack Developer for crafting secure and cutting-edge web applications tailored to your business needs.
 
 💡 **Why Choose Me?**
 With a keen eye for coding standards and a commitment to best practices, I specialize in delivering solutions that not only meet but exceed end-user expectations. I'm dedicated to providing accurate and quality-assured solutions every time.
