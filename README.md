@@ -23,9 +23,16 @@ I'm happy to engage in a consultation call or trial work to earn your trust befo
 
 I guarantee end solutions that address issues with accuracy and quality assurance every time. Contact me now, and let's get cracking! Whether you need a consultation or trial work, I'm here to win your trust and deliver top-notch development expertise for your projects.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kipchirchir-k)
-[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your_upwork_profile_id)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kipchirchir-kibet-921928102)
+[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/chirchir)
 
 - Mobile no : +254-705-595-011.
+## Contact Information
 
+📧 Email: your.email@example.com  
+🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)  
+🌐 Website: [Your Portfolio](https://www.yourportfolio.com/)  
+
+Feel free to reach out to me via email or connect on social media!
 
