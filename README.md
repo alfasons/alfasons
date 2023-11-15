@@ -1,28 +1,31 @@
-### Hi 👋, My name is Kipchirchir Kibet
+# Hi there! 👋 I'm Kipchirchir K, Expert Full Stack Developer
 
-**Profile Description**
- 🚀 Welcome to a destination where expertise meets innovation! I'm Kipchirchir K, your go-to Full Stack Developer for crafting secure and cutting-edge web applications tailored to your business needs.
+Are you in need of a seasoned Full Stack Developer to bring your web applications to life? You've come to the right place! I specialize in crafting secure, innovative solutions, handling both the Front-End and Back-End of projects.
 
-💡 **Why Choose Me?**
-With a keen eye for coding standards and a commitment to best practices, I specialize in delivering solutions that not only meet but exceed end-user expectations. I'm dedicated to providing accurate and quality-assured solutions every time.
+## Why Choose Me?
 
-🔧 **Skill Set:**
-- **Front-End:** HTML, CSS, JavaScript (Bootstrap)
-- **Back-End:** PHP (Yii2, Laravel, Codeigniter), MySQL, MSSQL, PostgreSQL
-- **API Integration:** Experienced in connecting with 3rd party applications, including payment gateways such as STRIPE and PAYPAL. Familiar with XML-RPC, SOAP, and HTTP protocols.
+### Proven Expertise:
+With over 7 years of experience as a Full Stack Developer, I bring a wealth of knowledge to the table. My technology stack includes proficiency in PHP (Yii2, Laravel, Codeigniter), Bootstrap (HTML, CSS, JS), and various databases such as MYSQL, MSSQL, and PostgreSQL.
 
-🌐 **Technical Proficiency:**
-I possess extensive experience in designing and developing both back-end and front-end systems. My expertise extends to API integration, and I'm well-versed in configuring and administering applications on both Windows and Linux operating systems.
+### API Integration:
+I have extensive experience integrating APIs with 3rd party applications, including payment gateways like STRIPE and PAYPAL. Familiar with XML-RPC, SOAP, and HTTP protocols.
 
-🛠️ **Let's Collaborate!**
-I understand the importance of trust in a working relationship. Feel free to schedule a consultation call or propose a trial project. Let's discuss how I can bring value to your project.
+### Operating Systems:
+I can configure and administer applications in both Windows and Linux environments.
 
-📞 **Contact Me:**
-Ready to take the next step? Contact me now, and let's turn your ideas into reality. I'm here to make your web development journey seamless and successful!
-- email:  kibet780@gmail.com
-- mobile number : +254-705-595-011
-- upwork profile: https://www.upwork.com/freelancers/chirchir
+### Commitment to Quality:
+I adhere to coding standards and best practices to ensure solutions that primarily benefit the end user.
+
+### Consultation and Trial Work:
+I'm happy to engage in a consultation call or trial work to earn your trust before you make a hiring decision.
+
+## Let's Collaborate:
+
+I guarantee end solutions that address issues with accuracy and quality assurance every time. Contact me now, and let's get cracking! Whether you need a consultation or trial work, I'm here to win your trust and deliver top-notch development expertise for your projects.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kipchirchir-k)
+[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your_upwork_profile_id)
+
+- Mobile no : +254-705-595-011.
 
 
-Looking forward to the opportunity,
-Kipchirchir K
